@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Frogen</string>
+    <string name="go_to_main_page">Go to Main page</string>
+    <string name="arogs">Add frogs</string>
+    <string name="show_table_of_frog_names">Show table of frog names</string>
+    <string name="show_table_of_frogs">Show table of frogs</string>
+    <string name="chocolate_white_paddlefish">Chocolate white paddlefish</string>
+    <string name="leopard_frog">leopard frog</string>
+    <string name="add_frogs">Add frogs</string>
+    <string name="spotted_piglet_frog">Spotted Piglet Frog</string>
+    <string name="frog_tomato">frog-tomato</string>
+</resources>

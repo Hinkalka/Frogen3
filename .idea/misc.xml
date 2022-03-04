@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Frogen2/app/src/main/res/layout/activity_clock_info.xml" value="1.1" />
+        <entry key="..\:/Frogen2/app/src/main/res/layout/activity_clock_main.xml" value="0.6769759450171822" />
+        <entry key="..\:/Frogen2/app/src/main/res/layout/activity_dob_lag.xml" value="0.2" />
+        <entry key="..\:/Frogen2/app/src/main/res/layout/activity_info.xml" value="0.33" />
+        <entry key="..\:/Frogen2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Frogen2/app/src/main/res/layout/activity_televisorversion_dob_lag.xml" value="0.22" />
+        <entry key="..\:/Frogen2/app/src/main/res/layout/activity_televisorversion_info.xml" value="0.15" />
+        <entry key="..\:/Frogen2/app/src/main/res/layout/activity_televisorversion_mane.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
